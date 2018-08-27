@@ -1,7 +1,7 @@
 import glob
 import os
 
-# compares folders to ensure all files have completed (such as with a scripted process
+# compares folders where both should have the same files present
 
 done_list = []
 
