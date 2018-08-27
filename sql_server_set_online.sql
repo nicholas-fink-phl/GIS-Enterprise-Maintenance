@@ -1,4 +1,4 @@
--- sets databases online if they've been knocked offline, runs from sql_server_set_online.bat
+-- sets SQL Server databases online if they've been knocked offline, runs from sql_server_set_online.bat
 alter database testing set online
 go
 alter database production set online
